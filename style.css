@@ -110,11 +110,11 @@ span:nth-child(4){
         -o-transform: rotateX(0deg) rotateY(30deg);
     }
     50%{
-        transform: rotateX(-23deg) rotateY(0deg);
-        -webkit-transform: rotateX(-23deg) rotateY(0deg);
-        -moz-transform: rotateX(-23deg) rotateY(0deg);
-        -ms-transform: rotateX(-23deg) rotateY(0deg);
-        -o-transform: rotateX(-23deg) rotateY(0deg);
+        transform: rotateX(-30deg) rotateY(0deg);
+        -webkit-transform: rotateX(-30deg) rotateY(0deg);
+        -moz-transform: rotateX(-30deg) rotateY(0deg);
+        -ms-transform: rotateX(-30deg) rotateY(0deg);
+        -o-transform: rotateX(-30deg) rotateY(0deg);
 }
     75%{
         transform: rotateX(0deg) rotateY(-30deg);
