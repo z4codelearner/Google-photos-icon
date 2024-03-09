@@ -59,11 +59,11 @@ span{
     border-bottom-left-radius: 100px;
     border-bottom-right-radius: 100px;
     transform-origin: 50% 100%;
-    transform: translate(-50%, -107%) rotateZ(var(--rotate));
-    -webkit-transform: translate(-50%, -107%) rotateZ(var(--rotate));
-    -moz-transform: translate(-50%, -107%) rotateZ(var(--rotate));
-    -ms-transform: translate(-50%, -107%) rotateZ(var(--rotate));
-    -o-transform: translate(-50%, -107%) rotateZ(var(--rotate));
+    transform: translate(-50%, -100%) rotateZ(var(--rotate));
+    -webkit-transform: translate(-50%, -100%) rotateZ(var(--rotate));
+    -moz-transform: translate(-50%, -100%) rotateZ(var(--rotate));
+    -ms-transform: translate(-50%, -100%) rotateZ(var(--rotate));
+    -o-transform: translate(-50%, -100%) rotateZ(var(--rotate));
 }
 span:nth-child(1){
     --color: #F6B704;
